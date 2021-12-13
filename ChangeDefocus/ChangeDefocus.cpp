@@ -1,3 +1,8 @@
+//------------------------------------------------------------------------
+// ChangeDefocus.cpp
+// Author: Krzysztof Morawiec
+//------------------------------------------------------------------------
+
 #include "ChangeDefocus.h"
 
 using namespace std;
